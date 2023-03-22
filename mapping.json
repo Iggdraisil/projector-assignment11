@@ -35,8 +35,8 @@
         "my_prefix": {
           "type": "edge_ngram",
           "language": "possessive_english",
-          "min_gram": 1,
-          "max_gram": 2
+          "min_gram": 3,
+          "max_gram": 9
         }
       },
       "analyzer": {

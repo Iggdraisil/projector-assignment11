@@ -1,5 +1,5 @@
 {
-  "took": 96,
+  "took": 28,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -16,7 +16,7 @@
     "hits": [
       {
         "_index": "english_dict",
-        "_id": "MU3kBYcBvJxAjY-vEVG2",
+        "_id": "l6pPCocBYiTSatjlKfjL",
         "_score": 10.263829,
         "_source": {
           "word": "pimpled",
@@ -25,7 +25,7 @@
       },
       {
         "_index": "english_dict",
-        "_id": "U03kBYcBvJxAjY-vEe3V",
+        "_id": "uatPCocBYiTSatjlKpQc",
         "_score": 10.263829,
         "_source": {
           "word": "pimple",
@@ -34,7 +34,7 @@
       },
       {
         "_index": "english_dict",
-        "_id": "cE3kBYcBvJxAjY-vESas",
+        "_id": "1qpPCocBYiTSatjlKc21",
         "_score": 8.211063,
         "_source": {
           "word": "rimple",
@@ -45,7 +45,7 @@ To rumple; to wrinkle."""
       },
       {
         "_index": "english_dict",
-        "_id": "Wk3kBYcBvJxAjY-vEU21",
+        "_id": "wKpPCocBYiTSatjlKfTJ",
         "_score": 8.211063,
         "_source": {
           "word": "simple",
@@ -58,7 +58,7 @@ To gather simples, or medicinal plants. As simpling on the flowery hills she [Ci
       },
       {
         "_index": "english_dict",
-        "_id": "Sk3kBYcBvJxAjY-vEXK8",
+        "_id": "sKtPCocBYiTSatjlKRnb",
         "_score": 8.211063,
         "_source": {
           "word": "simpleness",
@@ -67,7 +67,7 @@ To gather simples, or medicinal plants. As simpling on the flowery hills she [Ci
       },
       {
         "_index": "english_dict",
-        "_id": "_E3kBYcBvJxAjY-vEXW9",
+        "_id": "YqtPCocBYiTSatjlKR3d",
         "_score": 8.211063,
         "_source": {
           "word": "pimply",
@@ -76,7 +76,7 @@ To gather simples, or medicinal plants. As simpling on the flowery hills she [Ci
       },
       {
         "_index": "english_dict",
-        "_id": "Mk3kBYcBvJxAjY-vEY3C",
+        "_id": "mKtPCocBYiTSatjlKTTp",
         "_score": 8.211063,
         "_source": {
           "word": "dimple",
@@ -89,7 +89,7 @@ To mark with dimples or dimplelike depressions. Shak."""
       },
       {
         "_index": "english_dict",
-        "_id": "rU3kBYcBvJxAjY-vEczO",
+        "_id": "E6tPCocBYiTSatjlKnQJ",
         "_score": 8.211063,
         "_source": {
           "word": "pimelic",
@@ -98,7 +98,7 @@ To mark with dimples or dimplelike depressions. Shak."""
       },
       {
         "_index": "english_dict",
-        "_id": "107kBYcBvJxAjY-vEVPv",
+        "_id": "PatPCocBYiTSatjlKvtU",
         "_score": 8.211063,
         "_source": {
           "word": "wimple",
@@ -111,7 +111,7 @@ To lie in folds; also, to appear as if laid in folds or plaits; to ripple; to un
       },
       {
         "_index": "english_dict",
-        "_id": "RE3kBYcBvJxAjY-vEVm3",
+        "_id": "qqtPCocBYiTSatjlKQDO",
         "_score": 7.697872,
         "_source": {
           "word": "pimping",
