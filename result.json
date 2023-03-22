@@ -1,0 +1,123 @@
+{
+  "took": 96,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 72,
+      "relation": "eq"
+    },
+    "max_score": 10.263829,
+    "hits": [
+      {
+        "_index": "english_dict",
+        "_id": "MU3kBYcBvJxAjY-vEVG2",
+        "_score": 10.263829,
+        "_source": {
+          "word": "pimpled",
+          "description": "Having pimples. Johnson."
+        }
+      },
+      {
+        "_index": "english_dict",
+        "_id": "U03kBYcBvJxAjY-vEe3V",
+        "_score": 10.263829,
+        "_source": {
+          "word": "pimple",
+          "description": """1. (Med.)  Any small acuminated elevation of the cuticle, whether going on to suppuration or not. "All eyes can see a pimple on her nose." Pope. 2. Fig.: A swelling or protuberance like a pimple. "A pimple that portends a future sprout." Cowper."""
+        }
+      },
+      {
+        "_index": "english_dict",
+        "_id": "cE3kBYcBvJxAjY-vESas",
+        "_score": 8.211063,
+        "_source": {
+          "word": "rimple",
+          "description": """A fold or wrinkle. See Rumple.
+
+To rumple; to wrinkle."""
+        }
+      },
+      {
+        "_index": "english_dict",
+        "_id": "Wk3kBYcBvJxAjY-vEU21",
+        "_score": 8.211063,
+        "_source": {
+          "word": "simple",
+          "description": """1. Single; not complex; not infolded or entangled; uncombined; not compounded; not blended with something else; not complicated; as, a simple substance; a simple idea; a simple sound; a simple machine; a simple problem; simple tasks. 2. Plain; unadorned; as, simple dress. "Simple truth." Spenser. "His simple story." Burns. 3. Mere; not other than; being only. A medicine . . . whose simple touch Is powerful to araise King Pepin. Shak. 4. Not given to artifice, stratagem, or duplicity; undesigning; sincere; true. Full many fine men go upon my score, as simple as I stand here, and I trust them. Marston. Must thou trust Tradition's simple tongue Byron. To be simple is to be great. Emerson. 5. Artless in manner; unaffected; unconstrained; natural; inartificial;; straightforward. In simple manners all the secret lies. Young. 6. Direct; clear; intelligible; not abstruse or enigmatical; as, a simple statement; simple language. 7. Weak in intellect; not wise or sagacious; of but moderate understanding or attainments; hence, foolish; silly. "You have simple wits." Shak. The simple believeth every word; but the prudent man looketh well to his going. Prov. xiv. 15. 8. Not luxurious; without much variety; plain; as, a simple diet; a simple way of living. Thy simple fare and all thy plain delights. Cowper. 9. Humble; lowly; undistinguished. A simple husbandman in garments gray. Spenser. Clergy and laity, male and female, gentle and simple made the fuel of the same fire. Fuller. 10. (BOt.)  Without subdivisions; entire; as, a simple stem; a simple leaf. 11. (Chem.)  Not capable of being decomposed into anything more simple or ultimate by any means at present known; elementary; thus, atoms are regarded as simple bodies. Cf. Ultimate, a. Note: A simple body is one that has not as yet been decomposed. There are indications that many of our simple elements are still compound bodies, though their actual decomposition into anything simpler may never be accomplished.fundamental particle 12. (Min.)  Homogenous. 13. (Zoöl.)  Consisting of a single individual or zooid; as, a simple ascidian; -- opposed to compound. Simple contract (Law), any contract, whether verbal or written, which is not of record or under seal. J. W. Smith. Chitty. -- Simple equation (Alg.), an eqyation containing but one unknown quantity, and that quantity only in the first degree. -- Simple eye (Zoöl.), an eye having a single lens; -- opposed to Ant: compound eye. -- Simple interest. See under Interest. -- Simple larceny. (Law) See under Larceny. -- Simple obligation (Rom. Law), an obligation which does not depend for its execution upon any event provided for by the parties, or is not to become void on the happening of any such event. Burrill. Syn. -- Single; uncompounded; unmingled; unmixed; mere; uncombined; elementary; plain; artless; sincere; harmless; undesigning; frank; open; unaffected; inartificial; unadorned; credulous; silly; foolish; shallow; unwise. -- Simple, Silly. One who is simple is sincere, unaffected, and inexperienced in duplicity, -- hence liable to be duped. A silly person is one who is ignorant or weak and also self-confident; hence, one who shows in speech and act a lack of good sense. Simplicity is incompatible with duplicity, artfulness, or vanity, while silliness is consistent with all three. Simplicity denotes lack of knowledge or of guile; silliness denotes want of judgment or right purpose, a defect of character as well as of education. I am a simple woman, much too weak To oppose your cunning. Shak. He is the companion of the silliest people in their most silly pleasure; he is ready for every impertinent entertainment and diversion. Law.
+
+1. Something not mixed or compounded. "Compounded of many simples." Shak. 2. (Med.)  A medicinal plant; -- so called because each vegetable was supposed to possess its particular virtue, and therefore to constitute a simple remedy. What virtue is in this remedy lies in the naked simple itself as it comes over from the Indies. Sir W. Temple. 3. (Weaving) (a) A drawloom. (b) A part of the apparatus for raising the heddles of a drawloom. 4. (R. C. Ch.)  A feast which is not a double or a semidouble.
+
+To gather simples, or medicinal plants. As simpling on the flowery hills she [Circe] strayed. Garth."""
+        }
+      },
+      {
+        "_index": "english_dict",
+        "_id": "Sk3kBYcBvJxAjY-vEXK8",
+        "_score": 8.211063,
+        "_source": {
+          "word": "simpleness",
+          "description": "The quality or state of being simple; simplicity. Shak."
+        }
+      },
+      {
+        "_index": "english_dict",
+        "_id": "_E3kBYcBvJxAjY-vEXW9",
+        "_score": 8.211063,
+        "_source": {
+          "word": "pimply",
+          "description": "Pimpled."
+        }
+      },
+      {
+        "_index": "english_dict",
+        "_id": "Mk3kBYcBvJxAjY-vEY3C",
+        "_score": 8.211063,
+        "_source": {
+          "word": "dimple",
+          "description": """1. A slight natural depression or indentation on the surface of some part of the body, esp. on the cheek or chin. Milton. The dimple of her chin. Prior. 2. A slight indentation on any surface. The garden pool's dark surface . . . Breaks into dimples small and bright. Wordsworth.
+
+To form dimples; to sink into depressions or little inequalities. And smiling eddies dimpled on the main. Dryden.
+
+To mark with dimples or dimplelike depressions. Shak."""
+        }
+      },
+      {
+        "_index": "english_dict",
+        "_id": "rU3kBYcBvJxAjY-vEczO",
+        "_score": 8.211063,
+        "_source": {
+          "word": "pimelic",
+          "description": "(a) Pertaining to, or designating, a substance obtained from certain fatty substances, and subsequently shown to be a mixture of suberic and adipic acids. (b) Designating the acid proper (C5H10(CO2/H)2) which is obtained from camphoric acid."
+        }
+      },
+      {
+        "_index": "english_dict",
+        "_id": "107kBYcBvJxAjY-vEVPv",
+        "_score": 8.211063,
+        "_source": {
+          "word": "wimple",
+          "description": """1. A covering of silk, linen, or other material, for the neck and chin, formerly worn by women as an outdoor protection, and still retained in the dress of nuns. Full seemly her wympel ipinched is. Chaucer. For she had laid her mournful stole aside, And widowlike sad wimple thrown away. Spenser. Then Vivian rose, And from her brown-locked head the wimple throws. M. Arnold. 2. A flag or streamer. Weale.
+
+1. To clothe with a wimple; to cover, as with a veil; hence, to hoodwink. "She sat ywympled well." Chaucer. This wimpled, whining, purblind, wayward boy. Shak. 2. To draw down, as a veil; to lay in folds or plaits, as a veil. 3. To cause to appear as if laid in folds or plaits; to cause to ripple or undulate; as, the wind wimples the surface of water.
+
+To lie in folds; also, to appear as if laid in folds or plaits; to ripple; to undulate. "Wimpling waves." Longfellow. For with a veil, that wimpled everywhere, Her head and face was hid. Spenser. With me through . . . meadows stray, Where wimpling waters make their way. Ramsay."""
+        }
+      },
+      {
+        "_index": "english_dict",
+        "_id": "RE3kBYcBvJxAjY-vEVm3",
+        "_score": 7.697872,
+        "_source": {
+          "word": "pimping",
+          "description": "1. Little; petty; pitiful. [Obs.] Crabbe. 2. Puny; sickly. [Local, U.S.]"
+        }
+      }
+    ]
+  }
+}
